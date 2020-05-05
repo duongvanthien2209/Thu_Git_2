@@ -3,4 +3,4 @@ function Cat(name, age) {
     this.age = age;
 }
 
-module.export = Cat;
+module.exports = Cat;
